@@ -1,2 +1,2 @@
 # Hotel-Management
-Hotel staff login
+Some basic information of the hotel
